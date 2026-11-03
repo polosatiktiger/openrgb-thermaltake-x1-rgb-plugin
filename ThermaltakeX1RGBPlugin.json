@@ -1,0 +1,8 @@
+{
+    "Id": "ThermaltakeX1RGB",
+    "Name": "Thermaltake X1 RGB",
+    "VersionStr": "0.1.1",
+    "Commit": "",
+    "Url": "https://github.com/polosatiktiger/openrgb-thermaltake-x1-rgb-plugin",
+    "OpenRGBPluginAPIVersion": 5
+}

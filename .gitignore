@@ -1,0 +1,10 @@
+build/
+build.local.bat
+OpenRGB/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+.vs/
